@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fashion-mnist_train.csv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/scikit01/classification/datasets/fashion-mnist_train.csv.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

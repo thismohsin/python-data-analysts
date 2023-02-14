@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="random_files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/py01-basic/demos/files/random_files.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

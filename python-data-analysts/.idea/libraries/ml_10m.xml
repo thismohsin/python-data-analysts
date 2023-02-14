@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ml-10m">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/orielly/Python-Machine-Learning-By-Example-Third-Edition/chapter2/ml-10m.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
